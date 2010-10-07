@@ -1,0 +1,18 @@
+# Testing App::CLI
+
+App::CLI doesn't have enough documents.  
+So I wrote test script and modules.
+
+## Directory tree
+<pre>
+.
+|-- lib
+|   `-- MyApp
+|       |-- Command
+|       |   |-- Help.pm
+|       |   |-- Print.pm
+|       |   `-- Sum.pm
+|       `-- Command.pm
+`-- script
+    `-- myapp.pl
+</pre>
