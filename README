@@ -4,7 +4,6 @@ App::CLI doesn't have enough documents.
 So I wrote test script and modules.
 
 ## Directory tree
-<pre>
 .
 |-- lib
 |   `-- MyApp
@@ -15,4 +14,3 @@ So I wrote test script and modules.
 |       `-- Command.pm
 `-- script
     `-- myapp.pl
-</pre>
